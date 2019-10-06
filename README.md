@@ -1,4 +1,4 @@
-# Adaption of whmisicalraps' RIP module.
+# Adaption of Mannequins' RIP module.
 
 Mannequins RIP module by Whimsical Raps is now open source.
 https://github.com/whimsicalraps/RIP_DIY
