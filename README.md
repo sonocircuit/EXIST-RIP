@@ -3,7 +3,7 @@
 Mannequins RIP module by Whimsical Raps is now open source.
 https://github.com/whimsicalraps/RIP_DIY
 
-EXI[S]T is an adaption for DIY cases with audio jacks on the rear.
+EXI[S]T is an adaption for cases with audio jacks on the rear (e.g. DIY cases or Intellijel 7u cases).
 
 There is one PCB and panel in 1u format (Intellijel and Pulplogic), which houses the input jacks, lift switch and a volume pot.
 
