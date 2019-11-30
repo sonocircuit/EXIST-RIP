@@ -5,6 +5,8 @@ https://github.com/whimsicalraps/RIP_DIY
 
 EXI[S]T is an adaption for cases with audio jacks on the rear (e.g. DIY cases or Intellijel 7u cases).
 
+![PCB](https://github.com/sonoCircuits/EXIST-RIP/blob/master/EXIST-Images/EXIST-RIP_transformerPCB_top.png)
+
 There is one PCB and panel in 1u format (Intellijel and Pulplogic), which houses the input jacks, lift switch and a volume pot.
 
 The second PCB – the transformer board – is meant to be mounted inside the case and is connected to the 1u module via 16pin ribbon cable.
