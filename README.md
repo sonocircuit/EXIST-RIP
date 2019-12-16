@@ -10,23 +10,15 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
  **Inputs**
  
-<dl>
-<dt>Option A:</dt>
-<dd>The inputs are conncted to the *transformer board* via 16 pin ribbon cable to the 1u EXI[S]T module. These are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and a attenuating volume pot.</dd>
-<dt>Option B:</dt>
-<dd>An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector found on the rear of the module. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.</dd>
-</dl>
+Option A: <br> The inputs are conncted to the *transformer board* via 16 pin ribbon cable to the 1u EXI[S]T module. These are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and a attenuating volume pot. <br>
 
-
-Option A: The inputs are conncted to the *transformer board* via 16 pin ribbon cable to the 1u EXI[S]T module. These are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and a attenuating volume pot. <br>
-
-Option B: An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector found on the rear of the module. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.
+Option B: <br> An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector found on the rear of the module. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.
 
 **Outputs**
 
-Option A: TRS Jacks can be connected to the *transformer board* with wires via the "TRS" pads. <br>
+Option A: <br> TRS Jacks can be connected to the *transformer board* with wires via the "TRS" pads. <br>
 
-Option B: The 6pin header can be connected either to an Intellijel [Audio Jack rev2 board](https://intellijel.com/shop/cases/7u-audio-jacks-board-v2) or an Intellijel [Stereo Line Out Jacks module](https://intellijel.com/shop/eurorack/1u/stereo-line-out-jacks-1u) via 6 pin ribbon cable.
+Option B: <br> The 6pin header can be connected either to an Intellijel [Audio Jack rev2 board](https://intellijel.com/shop/cases/7u-audio-jacks-board-v2) or an Intellijel [Stereo Line Out Jacks module](https://intellijel.com/shop/eurorack/1u/stereo-line-out-jacks-1u) via 6 pin ribbon cable.
 
 
 ## make you own
