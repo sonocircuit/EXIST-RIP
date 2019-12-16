@@ -12,13 +12,13 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
 Option A: TRS Jacks can be connected to the transformer board with wires via the "TRS" pads. <br>
 
-Option B: The 6pin header can be connected to an Intellijel [Audio Jack rev2](https://intellijel.com/shop/cases/7u-audio-jacks-board-v2) or a [Stereo Line Out Jacks](https://intellijel.com/shop/eurorack/1u/stereo-line-out-jacks-1u) module via 6 pin ribbon cable.
+Option B: The 6pin header can be connected to an Intellijel [Audio Jack rev2 board](https://intellijel.com/shop/cases/7u-audio-jacks-board-v2) or a [Stereo Line Out Jacks module](https://intellijel.com/shop/eurorack/1u/stereo-line-out-jacks-1u) via 6 pin ribbon cable.
 
  **Inputs**
  
 Option A: There is one PCB and panel in 1u format (Intellijel and Pulplogic), which houses the input jacks, lift switch and a volume pot. <br>
 Option B: Owners of an Intelligel Mixup module may connect it directly to the transformer board via the molex 3pin connector. This option makes the 1u module redundant and ground lift may be engaged directly on the transformer board.
 
-You'll find all eagle files and gerbers in the repro in case you wish to have PCB's fabricated.
+All eagle files and gerbers can be found in the repro in case you wish to have PCB's fabricated.
 
 A build guide and BOM will follow, however the BOM is nearly identical to the original version.
