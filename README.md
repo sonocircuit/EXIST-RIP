@@ -10,6 +10,14 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
  **Inputs**
  
+<dl>
+<dt>Option A:</dt>
+<dd>The inputs are conncted to the *transformer board* via 16 pin ribbon cable to the 1u EXI[S]T module. These are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and a attenuating volume pot.</dd>
+<dt>Option B:</dt>
+<dd>An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector found on the rear of the module. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.</dd>
+</dl>
+
+
 Option A: The inputs are conncted to the *transformer board* via 16 pin ribbon cable to the 1u EXI[S]T module. These are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and a attenuating volume pot. <br>
 
 Option B: An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector found on the rear of the module. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.
