@@ -24,3 +24,7 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 **PCBs:** All [eagle files](https://github.com/sonoCircuits/EXIST-RIP/tree/master/EXIST-EAGLE%20FILES) can be found in the repro in case you wish to have PCB's fabricated.
 
 **BOM:** A build guide and BOM will follow, however the BOM is nearly identical to the original version.
+
+## Credits
+
+Thanks to [Whimsical Raps](http://whimsicalraps.com) for designing RIP and making this possible.
