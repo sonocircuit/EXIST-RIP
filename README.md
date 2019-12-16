@@ -1,6 +1,6 @@
 # EXI[S]T: an adaption of Mannequins' RIP module.
 
-Mannequins RIP module by Whimsical Raps is now [open source](https://github.com/whimsicalraps/RIP_DIY). EXI[S]T is an adaption thereof and can be configured in several ways. The name is a homage to Meng Qi's module "Please Exist"
+Mannequins RIP module by Whimsical Raps is now [open source](https://github.com/whimsicalraps/RIP_DIY). EXI[S]T is an adaption thereof and can be configured in several ways. The name is a homage to Meng Qi's module "Please Exist".
 
 ![PCB](https://github.com/sonoCircuits/EXIST-RIP/blob/master/EXIST%20Images/IMG_2368.jpg)
 
