@@ -17,6 +17,7 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
 **Output option B:** <br> The 6pin header can be connected either to an Intellijel [Audio Jack rev2 board](https://intellijel.com/shop/cases/7u-audio-jacks-board-v2) or an Intellijel [Stereo Line Out Jacks module](https://intellijel.com/shop/eurorack/1u/stereo-line-out-jacks-1u) via 6 pin ribbon cable.
 
+![CONFIG](https://github.com/sonoCircuits/EXIST-RIP/blob/master/EXIST%20Images/EXIST_configurations.jpg)
 
 ## Make you own
 
