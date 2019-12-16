@@ -27,4 +27,4 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
 ## Credits
 
-Thanks to [Whimsical Raps](http://whimsicalraps.com) for designing RIP and making this possible.
+Thanks to [Whimsical Raps](http://whimsicalraps.com) for designing RIP and making this possible and to Meng Qi for the name inspiration.
