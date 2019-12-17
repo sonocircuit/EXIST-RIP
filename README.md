@@ -9,7 +9,7 @@ Mannequins RIP module by Whimsical Raps is now [open source](https://github.com/
 The main PCB – *the transformer board* – is meant to be mounted inside the case. The inputs and outputs can be connected in serveral ways. Any configuration of the listed options below is possible.
 
  
-**Input option A:** <br> The inputs are conncted to the *transformer board* via 16 pin ribbon cable from the 1u EXI[S]T module. The 1u modules are available in either Intellijel and Pulplogic format and house the input jacks, lift switch and an attenuating volume pot. <br>
+**Input option A:** <br> The inputs are conncted to the *transformer board* via 16 pin ribbon cable from the 1u EXI[S]T module. The 1u modules are available in Intellijel (12HP) and Pulplogic (10HP) format and house the input jacks, lift switch and an attenuating volume pot. <br>
 
 **Input option B:** <br> An [Intelligel Mixup](https://intellijel.com/shop/eurorack/mixup) module can be connceted directly to the *transformer board* via the molex 3pin output bus connector. This configuration makes the 1u module redundant and ground lift may be engaged directly on the transformer board with two jumpers.
 
