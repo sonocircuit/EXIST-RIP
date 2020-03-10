@@ -23,7 +23,7 @@ The main PCB – *the transformer board* – is meant to be mounted inside the c
 
 **PCBs:** All [eagle files](https://github.com/sonoCircuits/EXIST-RIP/tree/master/EXIST-EAGLE%20FILES) can be found in the repro in case you wish to have PCB's fabricated.
 
-**BOM:** A build guide and BOM will follow, however the BOM is nearly identical to the original version. Please note that the silkscreen of the mixup header on the *transformer board* should be rotated by 180° (rotate the header before soldering, otherwise L and R channels will be swapped).
+**BOM:** Here is the [OCTOPART BOM](https://octopart.com/bom-tool/6HVkKHyi). Please note that the silkscreen of the mixup header on the *transformer board* should be rotated by 180° (rotate the header before soldering, otherwise L and R channels will be swapped). The silkscreen has been corrected on the Eagle files.
 
 ## Credits
 
